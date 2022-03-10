@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="overlay_delete">#99000000</color>
+    <color name="launcher_color_folder_bg">#ffffff</color>
+    <color name="launcher_color_folder_label">#000000</color>
+    <color name="launcher_color_app_icon_label">#636363</color>
+</resources>
