@@ -1,5 +1,5 @@
 # Launcher
-> 类似小米桌面，基于OpenLauncher修改
+> 类似小米平板桌面，基于OpenLauncher修改
 
 特点:
 
